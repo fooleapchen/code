@@ -5,7 +5,7 @@ date:   2014-04-27
 categories: javascript
 ---
 
-刚开始学 JavaScript，想借用这小块地方做学习记录代码存放。
+刚开始学 JavaScript，想借用这小块地方做学习笔记。
 
 看了一二十页的《JavaScript 高级程序设计》，虽然只是了解一点点乏味的知识，但我相信坚持下去会有收获的。
 
@@ -17,7 +17,7 @@ Camel 标记法——首字母是小写的，接下来的单词都以大写字�
 var myTestValue = 0 , mySecondTestValue = "hi" ；
 {% endhighlight %}
 
-Pascal 标记法——首字母是大写的，接下来的单词都以大写开头，例如：
+Pascal 标记法——首字母是大写的，接下来的单词都以大写开头。例如：
 
 {% highlight javascript %}
 var MyTestValue = 0 , MySecondTestValue = "hi" ；
@@ -28,3 +28,7 @@ var MyTestValue = 0 , MySecondTestValue = "hi" ；
 {% highlight javascript %}
 var iMyTestValue = 0 , sMySecondTestValue = "hi" ；
 {% endhighlight %}
+
+**本文历史**
+
+2014-04-27 完成初稿
