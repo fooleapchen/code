@@ -1,0 +1,10 @@
+name: Fooleap's Code
+url: http://fooleap.org/code
+description: 
+
+permalink: none
+paginate: 10
+pygments: true
+baseurl: /code
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
