@@ -31,4 +31,4 @@ var iMyTestValue = 0 , sMySecondTestValue = "hi" ；
 
 **本文历史**
 
-2014-04-27 完成初稿
+* 2014-04-27 完成初稿
